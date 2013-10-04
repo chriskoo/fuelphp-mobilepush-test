@@ -1,4 +1,9 @@
-init submodule
+fuelphp-mobilepush-test
+=======================
+
+
+
+init 
 
 
 git submodule add git://github.com/chriskoo/fuelphp-mobilepush fuel/modules/fulephp-mobilepush
