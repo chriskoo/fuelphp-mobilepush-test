@@ -1,6 +1,3 @@
-[submodule "fuel/modules/fulephp-mobilepush"]
-	path = fuel/modules/fulephp-mobilepush
-	url = git://github.com/chriskoo/fuelphp-mobilepush
 [submodule "fuel/core"]
 	path = fuel/core
 	url = git://github.com/fuel/core.git
@@ -19,3 +16,6 @@
 [submodule "fuel/packages/email"]
 	path = fuel/packages/email
 	url = git://github.com/fuel/email.git
+[submodule "fuel/app/modules/mobilepush"]
+	path = fuel/app/modules/mobilepush
+	url = git://github.com/chriskoo/fuelphp-mobilepush
